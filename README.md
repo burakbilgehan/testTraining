@@ -1,0 +1,2 @@
+# testTraining
+Test training assignment
